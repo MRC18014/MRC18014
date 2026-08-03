@@ -17,15 +17,15 @@ Let's connect, collaborate, and build more secure systems together.
 ## Certifications
 
 <div>
-<img src="https://img.shields.io/badge/-A%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />    
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-PenTest%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Project%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Linux%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Data%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-ITIL v4 Foundation-4B275F?&style=for-the-badge&logo=Axelos&logoColor=white" />
+<a href="https://cp.certmetrics.com/comptia/en/public/verify/credential/Z09EKL5HYDB4QB34"><img src="https://img.shields.io/badge/-A%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+<a href="https://cp.certmetrics.com/comptia/en/public/verify/credential/TCHQW43H9HF11SCC"><img src="https://img.shields.io/badge/-Network%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>    
+<a href="https://cp.certmetrics.com/comptia/en/public/verify/credential/M0VZ43RXHR0PF4K1"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+<a href="https://cp.certmetrics.com/comptia/en/public/verify/credential/LL0M1GFTBBREQH9Z"><img src="https://img.shields.io/badge/-CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+<a href="https://cp.certmetrics.com/comptia/en/public/verify/credential/3G66GM5ZJMB1QK96"><img src="https://img.shields.io/badge/-PenTest%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+<a href="https://cp.certmetrics.com/comptia/en/public/verify/credential/29WH0JF6N244Q3S8"><img src="https://img.shields.io/badge/-Project%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+<a href="https://cp.certmetrics.com/comptia/en/public/verify/credential/CSMYQT3S7NQECXS2"><img src="https://img.shields.io/badge/-Linux%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+<a href="https://cp.certmetrics.com/comptia/en/public/verify/credential/997V9HL59J4QCY22"><img src="https://img.shields.io/badge/-Data%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+<a href="https://media.licdn.com/dms/image/v2/D4E2DAQFlFXuMcabQKw/profile-treasury-document-cover-images_800/B4EZ.sMrF2HMA8-/0/1785300432044?e=1786395600&v=beta&t=bNhkvWKasUwEUk9J8mCD5_uq86CcYKYBtRko2YIwAQQ"><img src="https://img.shields.io/badge/-ITIL v4 Foundation-4B275F?&style=for-the-badge&logo=Axelos&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/-Associate of ISC2-008A0E?&style=for-the-badge&logo=ISC2&logoColor=white" />
 </div>
 
