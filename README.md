@@ -1,4 +1,4 @@
-# Hello, My name is Mark
+# Hello, My name is Mark Cummings
 <a href="https://www.linkedin.com/in/mark-cummings-jr/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Introduction
