@@ -7,6 +7,10 @@ I'm a recent college graduate from Western Governors University (B.S - Cybersecu
 
 My background combines years of technical leadership in complex environments with hands-on cybersecurity experience gained through home labs, Capture the Flag (CTF) challenges, and security-focused projects. I continuously expand my skills through real-world practice and by working with industry-standard tools and frameworks.
 
+I'm always looking to learn new technologies, contribute to the cybersecurity community, and collaborate on projects that strengthen security through automation and practical engineering.
+
+Let's connect, collaborate, and build more secure systems together.
+
 ## Areas of Interest
 
 Security Operations Center (SOC) Analysis<br/>
