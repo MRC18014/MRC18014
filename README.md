@@ -12,7 +12,7 @@ I'm always looking to learn new technologies, contribute to the cybersecurity co
 Let's connect, collaborate, and build more secure systems together.
 
 ## Education
-<img src="https://img.shields.io/badge/-Western Governors University-003057?&style=for-the-badge&logo=WesternGovernorsUniversity&logoColor=white"/>  <br/>Bachelor of Science - Cybersecurity and Information Assurance (2026)
+<a href="https://media.licdn.com/dms/image/v2/D4E2DAQEKN1SpM3ovbw/profile-treasury-document-images_1280/B4EZ.sNLxLJIAg-/1/1785300567117?e=1786579200&v=beta&t=JCIgA1idkRqsMKFRBGfqfLeTK9IHjMzgpzxof0C3k8o"><img src="https://img.shields.io/badge/-Western Governors University-003057?&style=for-the-badge&logo=WesternGovernorsUniversity&logoColor=white"/></a>  <br/>Bachelor of Science - Cybersecurity and Information Assurance (2026)
 
 ## Certifications
 
