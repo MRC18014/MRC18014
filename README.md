@@ -26,10 +26,8 @@ WIP
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Packet capture analysis with Wireshark        | SOC Automation Lab         |
+
 
 ## Tools
 <B>Security Tools:</B> Splunk, Wireshark, Nmap, Nessus, OWASP ZAP, Zeek, Snort<br/>
