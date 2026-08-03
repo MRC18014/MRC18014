@@ -11,6 +11,24 @@ I'm always looking to learn new technologies, contribute to the cybersecurity co
 
 Let's connect, collaborate, and build more secure systems together.
 
+## Education
+<img src="https://img.shields.io/badge/-Western Governors University-003057?&style=for-the-badge&logo=WesternGovernorsUniversity&logoColor=white"/>  <br/>Bachelor of Science - Cybersecurity and Information Assurance (2026)
+
+## Certifications
+
+<div>
+<img src="https://img.shields.io/badge/-A%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />    
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-PenTest%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Project%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Linux%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Data%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-ITIL v4 Foundation-4B275F?&style=for-the-badge&logo=Axelos&logoColor=white" />
+<img src="https://img.shields.io/badge/-Associate of ISC2-008A0E?&style=for-the-badge&logo=ISC2&logoColor=white" />
+</div>
+
 ## Areas of Interest
 
 Security Operations Center (SOC) Analysis<br/>
@@ -36,18 +54,7 @@ WIP
 <B>Networking:</B> TCP/IP, DNS, DHCP, VPNs, Firewalls, Routing & Switching<br/>
 <B>Frameworks & Standards:</B> MITRE ATT&CK, NIST Cybersecurity Framework, Risk Management Framework (RMF)<br/>
 
-## Certifications
-<div>
-<img src="https://img.shields.io/badge/-A%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />    
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-PenTest%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Project%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Linux%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Data%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-ITIL v4 Foundation-4B275F?&style=for-the-badge&logo=Axelos&logoColor=white" />
-</div>
+
 
 ## Projects
 WIP
