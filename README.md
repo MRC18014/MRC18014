@@ -59,3 +59,4 @@ WIP
 
 ## Projects
 WIP
+SOC Automation Lab
