@@ -45,6 +45,7 @@ WIP
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Packet capture analysis with Wireshark        | SOC Automation Lab         |
+| Home SIEM and Writeup                         | SOC Automation Lab         |
 
 
 ## Tools
