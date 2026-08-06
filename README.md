@@ -51,12 +51,12 @@ WIP
 ## Tools
 <B>Security Tools:</B> Splunk, Wireshark, Nmap, Nessus, OWASP ZAP, Zeek, Snort<br/>
 <B>Languages:</B> Python, Bash, SQL<br/>
-<B>Operating Systems:</B> Windows, Windows Server, Kali Linux, Linux<br/>
+<B>Operating Systems:</B> Windows, Windows Server, Kali Linux, Ubuntu Linux<br/>
 <B>Networking:</B> TCP/IP, DNS, DHCP, VPNs, Firewalls, Routing & Switching<br/>
 <B>Frameworks & Standards:</B> MITRE ATT&CK, NIST Cybersecurity Framework, Risk Management Framework (RMF)<br/>
 
 
 
 ## Projects
-WIP
+WIP<br/>
 SOC Automation Lab
