@@ -42,10 +42,10 @@ Cloud & Infrastructure Security<br/>
 ## Skills
 WIP
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Packet capture analysis with Wireshark        | SOC Automation Lab         |
-| Home SIEM deployment and Writeup              | SOC Automation Lab         |
+| Skill                                         | Associated Project          |
+|-----------------------------------------------|-----------------------------|
+| Packet capture analysis with Wireshark        | SOC Automation Lab          |
+| Home SIEM deployment and Write-up             | Home SIEM server and agents |
 
 
 ## Tools
@@ -58,5 +58,4 @@ WIP
 
 
 ## Projects
-WIP<br/>
-SOC Automation Lab
+Home SIEM server and agents
