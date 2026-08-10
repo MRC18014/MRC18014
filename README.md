@@ -45,7 +45,7 @@ WIP
 | Skill                                         | Associated Project          |
 |-----------------------------------------------|-----------------------------|
 | Packet capture analysis with Wireshark        | SOC Automation Lab          |
-| Home SIEM deployment and Write-up             | Home SIEM server and agents |
+| Home SIEM deployment and Write-up             | <a href="https://github.com/MRC18014/MRC18014/blob/main/SIEM.md">Home SIEM server and agents</a> |
 
 
 ## Tools
@@ -58,4 +58,4 @@ WIP
 
 
 ## Projects
-Home SIEM server and agents
+<a href="https://github.com/MRC18014/MRC18014/blob/main/SIEM.md">Home SIEM server and agents</a>
