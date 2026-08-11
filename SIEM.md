@@ -20,9 +20,8 @@ The home SIEM server project was aimed to establish a working SIEM in a sandbox 
 - Microsoft Server 2022 Edition to install a Wazuh SIEM agent onto and provide information regarding vulnerabilities in a Windows environment.
 
 ## Reference Images
-
-
-*Ref 1: Dashboard overview showing connected agents*
+<img src="https://github.com/MRC18014/Projects/blob/main/SIEM%20-%2001%20-%20Dashboard.png" width="75%" height="75%"></br>
+<i>*Ref 1: Dashboard overview showing connected agents*</i>
 
 *Ref 2: Microsoft Server Agent showing highlighting unpatched vulnerabilities*
 
