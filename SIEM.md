@@ -19,11 +19,17 @@ The home SIEM server project was aimed to establish a working SIEM in a sandbox 
 - Mint Linux to install a Wazuh SIEM agent onto and provide information regarding vulnerabilities in another Linux environment.
 - Microsoft Server 2022 Edition to install a Wazuh SIEM agent onto and provide information regarding vulnerabilities in a Windows environment.
 
-## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+## Reference Images
 
-Every screenshot should have some text explaining what the screenshot is about.
 
-Example below.
+*Ref 1: Dashboard overview showing connected agents*
 
-*Ref 1: Network Diagram*
+*Ref 2: Microsoft Server Agent showing highlighting unpatched vulnerabilities*
+
+*Ref 3: Detailed information of known vulnerability and method of remediation (Microsoft Server)*
+
+*Ref 4: Kali Linux Agent showing highlighting unpatched vulnerabilities*
+
+*Ref 5: Microsoft Server Agent showing highlighting unpatched vulnerabilities (Kali Linux)*
+
+*Ref 6: Dashboard overview showing connected agents and reduced alerts from patched vulnerabilities*
