@@ -40,7 +40,7 @@ Windows & Linux Administration<br/>
 Cloud & Infrastructure Security<br/>
 
 ## Skills
-WIP
+(Work In Progress)
 
 | Skill                                         | Associated Project          |
 |-----------------------------------------------|-----------------------------|
