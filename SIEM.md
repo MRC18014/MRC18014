@@ -2,7 +2,7 @@
 <a href="https://github.com/MRC18014">Back to main page</a>
 ## Objective
 
-The home SIEM server project was aimed to establish a working SIEM in a sandbox environment for vulnerability detection and remediation. This was achieved by using Oracle VirtualBox to create several virtual machines to run both the Wazuh SIEM Dashboard server in an Ubuntu Linux environment with several Wazuh agents including: Kali Linux, Mint Linux, and Microsoft Server 2022 edition. This hands-on experience was designed to deepen understanding of detecting known vulnerabilities, their origins and attack patterns, and methods of system hardening.
+The home SIEM server project was aimed to establish a working SIEM in a sandbox environment for vulnerability detection and remediation. This was achieved by using Oracle VirtualBox to create several virtual machines to run both the Wazuh SIEM Dashboard server in an Ubuntu Linux environment with several Wazuh agents including: Kali Linux, Linux Mint, and Microsoft Server 2022 edition. This hands-on experience was designed to deepen understanding of detecting known vulnerabilities, their origins and attack patterns, and methods of system hardening.
 
 ### Skills Learned
 
@@ -16,7 +16,7 @@ The home SIEM server project was aimed to establish a working SIEM in a sandbox 
 - Ubuntu Linux to deploy and manage the SIEM dashboard
 - Wazuh Security Information and Event Management (SIEM) platform as the SIEM that managed the compliance and threat detection of the various virtual machines
 - Kali Linux to install a Wazuh SIEM agent onto and provide information regarding vulnerabilities in a Linux environment.
-- Mint Linux to install a Wazuh SIEM agent onto and provide information regarding vulnerabilities in another Linux environment.
+- Linux Mint to install a Wazuh SIEM agent onto and provide information regarding vulnerabilities in another Linux environment.
 - Microsoft Server 2022 Edition to install a Wazuh SIEM agent onto and provide information regarding vulnerabilities in a Windows environment.
 
 ## Reference Images
