@@ -1,5 +1,5 @@
 # Home SIEM Server and Agents
-
+<a href="https://github.com/MRC18014">Back to main page</a>
 ## Objective
 
 The home SIEM server project was aimed to establish a working SIEM in a sandbox environment for vulnerability detection and remediation. This was achieved by using Oracle VirtualBox to create several virtual machines to run both the Wazuh SIEM Dashboard server in an Ubuntu Linux environment with several Wazuh agents including: Kali Linux, Mint Linux, and Microsoft Server 2022 edition. This hands-on experience was designed to deepen understanding of detecting known vulnerabilities, their origins and attack patterns, and methods of system hardening.
