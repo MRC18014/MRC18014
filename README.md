@@ -46,7 +46,8 @@ Cloud & Infrastructure Security<br/>
 |-----------------------------------------------|-----------------------------|
 | Packet capture analysis with Wireshark        | SOC Automation Lab          |
 | Live Packet capture with Snort                | SOC Automation Lab          |
-| Home SIEM deployment and Write-up             | <a href="https://github.com/MRC18014/MRC18014/blob/main/SIEM.md">Home SIEM server and agents</a> |
+| Deploying SIEM dashboard and agents           | <a href="https://github.com/MRC18014/MRC18014/blob/main/SIEM.md">Home SIEM server and agents</a> |
+| Detecting and analyzing phishing emails       | Phishing Email Analysis     |
 
 
 ## Tools
