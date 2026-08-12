@@ -34,4 +34,4 @@ The home SIEM server project was aimed to establish a working SIEM in a sandbox 
 <i>*Ref 6: Detailed information of a potential misconfiguration and the method of remediation*</i>
 <img src="https://github.com/MRC18014/Projects/blob/main/SIEM%20-%2005d%20-%20Linux%20Agent%20(Configuration%20-%20After).png" width="75%" height="75%"></br>
 <img src="https://github.com/MRC18014/Projects/blob/main/SIEM%20-%2005e%20-%20Linux%20Agent%20(Configuration%20-%20After%20-%20Detailed).png" width="75%" height="75%"></br>
-<i>Ref 6 & 7: Overview with the misconfiguration remediated*</i>
+<i>*Ref 6 & 7: Overview with the misconfiguration remediated*</i>
