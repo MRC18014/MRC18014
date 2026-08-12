@@ -8,6 +8,7 @@ The home SIEM server project was aimed to establish a working SIEM in a sandbox 
 
 - Advanced understanding of SIEM concepts and practical application.
 - Enhanced knowledge of network protocols and security vulnerabilities.
+- Deeper understanding of patching vulnerabilities and hardening systems.
 - Development of critical thinking and problem-solving skills in cybersecurity.
 
 ### Tools Used
