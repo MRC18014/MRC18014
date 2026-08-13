@@ -27,12 +27,14 @@ The home SIEM server project was aimed to establish a working SIEM in a sandbox 
 <i>*Ref 2: Overview of Microsoft Windows Server 2022 vulnerabilities*</i>
 <img src="https://github.com/MRC18014/Projects/blob/main/SIEM%20-%2003%20-%20Microsoft%20Agent%20(Vulnerability).png" width="75%" height="75%"></br>
 <i>*Ref 3: Microsoft Windows Server 2022 vulnerabilities in list form including their CVE ID and severity*</i>
+<img src="https://github.com/MRC18014/Projects/blob/main/SIEM%20-%2004%20-%20Microsoft%20Agent%20(Patched).png" width="75%" height="75%"></br>
+<i>*Ref 4: Microsoft Windows Server 2022 after applying patches to remediate vulnerabilities</i>
 <img src="https://github.com/MRC18014/Projects/blob/main/SIEM%20-%2005%20-%20Linux%20Agent.png" width="75%" height="75%"></br>
-<i>*Ref 4: Overview of Kali Linux Agent dashboard*</i>
+<i>*Ref 5: Overview of Kali Linux Agent dashboard*</i>
 <img src="https://github.com/MRC18014/Projects/blob/main/SIEM%20-%2005b%20-%20Linux%20Agent%20(Configuration%20-%20Before).png" width="75%" height="75%"></br>
-<i>*Ref 5: Overview of Kali Linux configuration assessment*</i>
+<i>*Ref 6: Overview of Kali Linux configuration assessment*</i>
 <img src="https://github.com/MRC18014/Projects/blob/main/SIEM%20-%2005c%20-%20Linux%20Agent%20(Configuration%20-%20Before%20-%20Detailed).png" width="75%" height="75%"></br>
-<i>*Ref 6: Detailed information of a potential misconfiguration and the method of remediation*</i>
+<i>*Ref 7: Detailed information of a potential misconfiguration and the method of remediation*</i>
 <img src="https://github.com/MRC18014/Projects/blob/main/SIEM%20-%2005d%20-%20Linux%20Agent%20(Configuration%20-%20After).png" width="75%" height="75%"></br>
 <img src="https://github.com/MRC18014/Projects/blob/main/SIEM%20-%2005e%20-%20Linux%20Agent%20(Configuration%20-%20After%20-%20Detailed).png" width="75%" height="75%"></br>
-<i>*Ref 6 & 7: Overview with the misconfiguration remediated*</i>
+<i>*Ref 8 & 9: Overview with the misconfiguration remediated*</i>
