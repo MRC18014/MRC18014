@@ -30,14 +30,20 @@ The above image is an over of the Microsoft Windows Sever 2022 agent. I chose th
 <img src="https://github.com/MRC18014/Projects/blob/main/SIEM%20-%2003%20-%20Microsoft%20Agent%20(Vulnerability).png" width="75%" height="75%"></br>
 <i><b>*Ref 3: Microsoft Windows Server 2022 vulnerabilities in list form including their CVE ID and severity*</i></b></br>
 This image lays out the more severe vulnerabilities, as well as the CVE ID, which give a description of the vulnerabilities, as well as the method to remediate said vulnerabilities. Most of these vulnerabilites were resolved by Microsoft over the years, so I applied the necessary patches.</br>
+<img src="https://github.com/MRC18014/Projects/blob/main/CVE-01.png" width="75%" height="75%"></br>
+<i><b>*Ref 4: Overview of CVE-2026-58640, the CVE listed on the top of the vulnerabilities list</i></b></br>
+This image provides a brief description of the vulnerability. The information listed includes when the record was last updated, a CVSS score and severity level, which provides a qualitative and quantitative assessment of the vulnerability, as well as the vector string which lays out the vulnerability characteristics (example: AV:L - Actor Vector: Local 0 The attacker must have local access to the target system (such as being logged on via a console or SSH))</br>
+<img src="https://github.com/MRC18014/Projects/blob/main/CVE-02.png" width="75%" height="75%"></br>
+<i><b>*Ref 5: List of Microsoft updates that patch the vulnerability</i></b></br>
+This is an image of the bottom portion of the CVE-2026-58640 vulnerability page. This section covers the listed patches that remediates the known vulnerability, thus, helping to secure the vulnerable system</br>
 <img src="https://github.com/MRC18014/Projects/blob/main/SIEM%20-%2004%20-%20Microsoft%20Agent%20(Patched).png" width="75%" height="75%"></br>
-<i>*Ref 4: Microsoft Windows Server 2022 after applying patches to remediate vulnerabilities</i>
+<i>*Ref 6: Microsoft Windows Server 2022 after applying patches to remediate vulnerabilities</i>
 <img src="https://github.com/MRC18014/Projects/blob/main/SIEM%20-%2005%20-%20Linux%20Agent.png" width="75%" height="75%"></br>
-<i>*Ref 5: Overview of Kali Linux Agent dashboard*</i>
+<i>*Ref 7: Overview of Kali Linux Agent dashboard*</i>
 <img src="https://github.com/MRC18014/Projects/blob/main/SIEM%20-%2005b%20-%20Linux%20Agent%20(Configuration%20-%20Before).png" width="75%" height="75%"></br>
-<i>*Ref 6: Overview of Kali Linux configuration assessment*</i>
+<i>*Ref 8: Overview of Kali Linux configuration assessment*</i>
 <img src="https://github.com/MRC18014/Projects/blob/main/SIEM%20-%2005c%20-%20Linux%20Agent%20(Configuration%20-%20Before%20-%20Detailed).png" width="75%" height="75%"></br>
-<i>*Ref 7: Detailed information of a potential misconfiguration and the method of remediation*</i>
+<i>*Ref 9: Detailed information of a potential misconfiguration and the method of remediation*</i>
 <img src="https://github.com/MRC18014/Projects/blob/main/SIEM%20-%2005d%20-%20Linux%20Agent%20(Configuration%20-%20After).png" width="75%" height="75%"></br>
 <img src="https://github.com/MRC18014/Projects/blob/main/SIEM%20-%2005e%20-%20Linux%20Agent%20(Configuration%20-%20After%20-%20Detailed).png" width="75%" height="75%"></br>
-<i>*Ref 8 & 9: Overview with the misconfiguration remediated*</i>
+<i>*Ref 10 & 11: Overview with the misconfiguration remediated*</i>
