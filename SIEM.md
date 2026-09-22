@@ -29,7 +29,7 @@ The Image shows the Wazuh SEIM server running and monitoring several agents. For
 The above image is an over of the Microsoft Windows Sever 2022 agent. I chose this operating system due to its usefulness in managing user accounts, account access policies, and user groups - traits that apply in a live environment. Since this a fresh install, there are many unpatched vulnerabilities listed.</br>
 <img src="https://github.com/MRC18014/Projects/blob/main/SIEM%20-%2003%20-%20Microsoft%20Agent%20(Vulnerability).png" width="75%" height="75%"></br>
 <i><b>*Ref 3: Microsoft Windows Server 2022 vulnerabilities in list form including their CVE ID and severity*</i></b></br>
-This image lays out the more severe vulnerabilities, as well as the CVE ID, which give a description of the vulnerabilities, as well as the method to remediate said vulnerabilities.</br>
+This image lays out the more severe vulnerabilities, as well as the CVE ID, which give a description of the vulnerabilities, as well as the method to remediate said vulnerabilities. Most of these vulnerabilites were resolved by Microsoft over the years, so I applied the necessary patches.</br>
 <img src="https://github.com/MRC18014/Projects/blob/main/SIEM%20-%2004%20-%20Microsoft%20Agent%20(Patched).png" width="75%" height="75%"></br>
 <i>*Ref 4: Microsoft Windows Server 2022 after applying patches to remediate vulnerabilities</i>
 <img src="https://github.com/MRC18014/Projects/blob/main/SIEM%20-%2005%20-%20Linux%20Agent.png" width="75%" height="75%"></br>
