@@ -37,7 +37,8 @@ This image provides a brief description of the vulnerability. The information li
 <i><b>*Ref 5: List of Microsoft updates that patch the vulnerability</i></b></br>
 This is an image of the bottom portion of the CVE-2026-58640 vulnerability page. This section covers the listed patches that remediates the known vulnerability, thus, helping to secure the vulnerable system</br>
 <img src="https://github.com/MRC18014/Projects/blob/main/SIEM%20-%2004%20-%20Microsoft%20Agent%20(Patched).png" width="75%" height="75%"></br>
-<i>*Ref 6: Microsoft Windows Server 2022 after applying patches to remediate vulnerabilities</i>
+<i><b>*Ref 6: Microsoft Windows Server 2022 after applying patches to remediate vulnerabilities</i></b></br>
+As shown in ref 6, after applying the necessary patches, there are no more serious vulnerabilities. There are, however, some areas that can checked on by examining the configuration assessment. It is worth noting that there may be instances where some configurations are acceptable, but should be addressed on a case-by-case basis.</br>
 <img src="https://github.com/MRC18014/Projects/blob/main/SIEM%20-%2005%20-%20Linux%20Agent.png" width="75%" height="75%"></br>
 <i>*Ref 7: Overview of Kali Linux Agent dashboard*</i>
 <img src="https://github.com/MRC18014/Projects/blob/main/SIEM%20-%2005b%20-%20Linux%20Agent%20(Configuration%20-%20Before).png" width="75%" height="75%"></br>
