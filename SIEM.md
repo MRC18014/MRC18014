@@ -40,11 +40,15 @@ This is an image of the bottom portion of the CVE-2026-58640 vulnerability page.
 <i><b>*Ref 6: Microsoft Windows Server 2022 after applying patches to remediate vulnerabilities</i></b></br>
 As shown in ref 6, after I applied the necessary patches, there are no more known serious vulnerabilities. There are, however, some areas that can checked on by examining the configuration assessment. It is worth noting that there may be instances where some configurations are acceptable, but should be addressed on a case-by-case basis. I will continue to monitor this system for vulnerabilities as this is not a one-and-done process, but a constant event.</br>
 <img src="https://github.com/MRC18014/Projects/blob/main/SIEM%20-%2005%20-%20Linux%20Agent.png" width="75%" height="75%"></br>
-<i>*Ref 7: Overview of Kali Linux Agent dashboard*</i>
+<i><b>*Ref 7: Overview of Kali Linux Agent dashboard*</i></b></br>
+This image shows an overview of the Wazuh SIEM monitoring a recently deployed Kali Linux system. Since this system of a fresh and the most recent copy of Kali Linux, there are no known vulnerabilities at the time that I initiated this scan. There are, however, some opportunities for system hardening by reviewing the Security Configuration Assessment section.</br>
 <img src="https://github.com/MRC18014/Projects/blob/main/SIEM%20-%2005b%20-%20Linux%20Agent%20(Configuration%20-%20Before).png" width="75%" height="75%"></br>
-<i>*Ref 8: Overview of Kali Linux configuration assessment*</i>
+<i><b>*Ref 8: Overview of Kali Linux configuration assessment*</i></b></br>
+This section displays the results of the configuration scan. With these results, I'm able to go into the Linux system and disable any options that I currently do not need on my system. Doing this will help harden my system by reducing the attack surface for potential bad actors.
 <img src="https://github.com/MRC18014/Projects/blob/main/SIEM%20-%2005c%20-%20Linux%20Agent%20(Configuration%20-%20Before%20-%20Detailed).png" width="75%" height="75%"></br>
-<i>*Ref 9: Detailed information of a potential misconfiguration and the method of remediation*</i>
+<i><b>*Ref 9: Detailed information of a potential misconfiguration and the method of remediation*</i></b></br>
+I decided to look into the first flagged configuration ID, 30001. By clicking the ID, I'm given a description, a cause for disabling, how to disable the configuration, and various compliance factors (ex: PCI-DSS v3.2.1, NIST SP 800-53) that this ID would apply to, as well as how an attacker would apply this configuration in their attacks (MITRE Techniques), giving me a full scope in my decision to keep the configuration enabled or to disable it.</br>
 <img src="https://github.com/MRC18014/Projects/blob/main/SIEM%20-%2005d%20-%20Linux%20Agent%20(Configuration%20-%20After).png" width="75%" height="75%"></br>
 <img src="https://github.com/MRC18014/Projects/blob/main/SIEM%20-%2005e%20-%20Linux%20Agent%20(Configuration%20-%20After%20-%20Detailed).png" width="75%" height="75%"></br>
-<i>*Ref 10 & 11: Overview with the misconfiguration remediated*</i>
+<i><b>*Ref 10 & 11: Overview with the misconfiguration remediated*</i></b></br>
+
