@@ -51,4 +51,4 @@ I decided to look into the first flagged configuration ID, 30001. By clicking th
 <img src="https://github.com/MRC18014/Projects/blob/main/SIEM%20-%2005d%20-%20Linux%20Agent%20(Configuration%20-%20After).png" width="75%" height="75%"></br>
 <img src="https://github.com/MRC18014/Projects/blob/main/SIEM%20-%2005e%20-%20Linux%20Agent%20(Configuration%20-%20After%20-%20Detailed).png" width="75%" height="75%"></br>
 <i><b>*Ref 10 & 11: Overview with the misconfiguration remediated*</i></b></br>
-
+Since I didn't need the service, I disabled it. I re-ran the scan, showing that ID 30001 has now passed, thus reducing my systems attack surface.
